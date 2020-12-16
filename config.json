@@ -1,0 +1,9 @@
+{
+	"layers" : [8182,4096,1],
+	"epochs" : 1000,
+	"act_func" : "relu",
+	"dropout" : 0.5,
+	"input_dropout" : 0.0,
+	"eta" : 0.00001,
+	"norm" : "tanh"
+}
